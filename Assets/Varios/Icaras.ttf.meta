@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0df014bfd93e9f04f863ee6fc6f3e40b
+timeCreated: 1512372778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Icaras
+  fontNames:
+  - Icaras
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
